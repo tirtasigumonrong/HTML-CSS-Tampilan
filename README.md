@@ -18,3 +18,7 @@ This is the HTML view for simple and common used.
 :point_down:
 
 ![login3](https://user-images.githubusercontent.com/71967450/99148490-87db4980-26ba-11eb-8c01-e5155d78cd61.PNG)
+
+#login4.html
+
+![login4](https://user-images.githubusercontent.com/71967450/99148943-67f95500-26bd-11eb-850f-9130c29b239f.PNG)
