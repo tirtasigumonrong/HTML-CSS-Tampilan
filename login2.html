@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"  content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Times New Roman', Times, serif;
+            background-image: linear-gradient(to right,#03434f,#03334f, #03204f);
+            color: white;
+        }
+        .heading1 {
+            text-align: center;
+            color: white;
+            padding: 20px;
+            font-size: 32px;
+        }
+        .foot {
+            text-align: center;
+        }
+        .content {
+            background-color:#1d2b42;
+            text-align: center;
+        }
+        .content a {
+            text-decoration: none;
+            color: white;
+            display: inline-block;
+        }
+        .icon {
+            padding: 10px;
+            background: white;
+            color: black;
+            min-width: 50px;
+            text-align: center;
+        }
+        .input-container {
+            display: flex;
+            width: 100%;
+            margin-bottom: 15px;
+            padding: 20px;
+        }
+        .input-field {
+            width: 100%;
+            padding: 10px;
+            outline: none;
+        }
+        .btn {
+            background-color: dodgerblue;
+            color:white;
+            padding: 15px 20px;
+            border: none;
+            cursor: pointer;
+            width: 100%;
+            opacity: 0.9;
+        }
+        .btn:hover {
+            opacity: 1;
+        }
+    </style>
+</head>
+<body>
+    <div class="heading1">
+        <h1>Basic Login Form</h1>
+    </div>
+    <form action="#" style="max-width: 500px;margin: auto;">
+    <div class="content">
+        <p>Login</p>
+        <div class="input-container">
+            <i class="fa fa-user icon"></i>
+            <input class="input-field" type="text" name="uname" placeholder="Username"/>
+        </div>
+        <div class="input-container">
+            <i class="fa fa-key icon"></i>
+            <input class="input-field" type="password" name="passwd" placeholder="Password"/>
+        </div>
+        <div class="input-container">
+            <button type="submit" class="btn">LOGIN</button>
+        </div>
+        <p><a href="#">Forgot Password?</a></p>
+    </div>
+    <div class="foot">
+        <p>@2017 Basic Login Form. All Rights Reserved | Design by w3layouts</p>
+    </div>
+    </form>
+</body>
+</html>
