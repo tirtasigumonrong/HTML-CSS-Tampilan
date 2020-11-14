@@ -12,3 +12,9 @@ This is the HTML view for simple and common used.
 :muscle:
 
 ![login2](https://user-images.githubusercontent.com/71967450/99140389-35773a00-2674-11eb-9d39-455fabfb332d.PNG)
+
+# Login3.html
+
+:point_down:
+
+![login3](https://user-images.githubusercontent.com/71967450/99148490-87db4980-26ba-11eb-8c01-e5155d78cd61.PNG)
