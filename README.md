@@ -21,4 +21,12 @@ This is the HTML view for simple and common used.
 
 # login4.html
 
+:star:
+
 ![login4](https://user-images.githubusercontent.com/71967450/99148943-67f95500-26bd-11eb-850f-9130c29b239f.PNG)
+
+# login5.html
+
+:musical_note:
+
+![login5](https://user-images.githubusercontent.com/71967450/99149953-db05ca00-26c3-11eb-9ed6-cdc3a822e8c1.PNG)
